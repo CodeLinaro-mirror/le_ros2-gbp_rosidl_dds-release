@@ -2,6 +2,12 @@
 Changelog for package rosidl_generator_dds_idl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.14.1 (2026-11-03)
+-------------------
+* Use rosidl_find_package_idl() to find .idl file paths (`#66 <https://github.com/ros2/rosidl_dds//issues/66>`_)
+* Use the SPDX identifier Apache-2.0 in package.xml license tags (`#65 <https://github.com/ros2/rosidl_dds//issues/65>`_)
+* Contributors: Michael Carroll, Nathan Wiebe Neufeldt
+
 0.14.0 (2026-05-05)
 -------------------
 
